@@ -1,3 +1,3 @@
-import { Poppins } from 'next/font/google';
-
-export const poppins = Poppins({weight: "800"});
+import { Inter } from 'next/font/google';
+ 
+export const inter = Inter({ subsets: ['latin'] });
